@@ -1,0 +1,32 @@
+#skills-section {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#skills-section h2 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+#skills-section .skill-item {
+    margin: 20px;
+    text-align: center;
+}
+
+.skill-item img {
+    width: 100px;
+    height: 100px;
+}
+
+.skill-item h4 {
+    margin-top: 20px;
+    color: #333;
+    font-size: 1.2em;
+}
+
+.skill-item p {
+    color: #666;
+    font-size: 1em;
+}

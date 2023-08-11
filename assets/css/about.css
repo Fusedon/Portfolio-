@@ -1,0 +1,21 @@
+#profile-section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#profile-section h1 {
+    color: #333;
+    font-size: 2em;
+}
+
+#profile-section p {
+    color: #666;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+#profile-section img {
+    max-width: 100%;
+    height: auto;
+}
